@@ -1,0 +1,16 @@
+
+.idea/.idea.Project/.idea/
+
+Infrastructure/obj/
+
+Main.Service/bin/Debug/net7.0/
+
+Main.Service/obj/
+
+Domain/obj/Debug/net7.0/
+
+Domain/obj/
+
+Infrastructure/bin/Debug/net7.0/
+
+Domain/bin/Debug/net7.0/
